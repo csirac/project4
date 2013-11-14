@@ -279,7 +279,7 @@ class Listener(n : Int) extends Actor {
    
   }
 
-object gen_data {
+object project4 {
   def main( args: Array[String] ) {
     var n = args(0).toInt;
     
